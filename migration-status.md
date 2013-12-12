@@ -5,14 +5,15 @@
 * GMail
 * Calendar
 * Contacts
-* Android Backup
 * Android Play Store
 * Plus
 * Voice
+* Translate
+* Wallet
 
 ## Migrations in Progress
 
-* Picasa (photo sync)
+* Photos (Picasa)
 
   *Replacement*: [Younited (by FSecure)](https://www.younited.com)  
   *Progress*: Account created with Younited, setup to pull data from Picasa, to
@@ -25,6 +26,13 @@
   *Replacement*: [DuckDuckGo](https://duckduckgo.com)  
   *Progress*: Firefox configured on `jdb-desktop` to use DDG.  
   *Outstanding*: Reconfigure mobile browsers, Chrome to use DDG.
+
+* Android Backup/Sync
+
+  *Replacement*: [Cyanogenmod](http://www.cyanogenmod.org/)  
+  *Progress*: Installed CM build on my phone. Linked CM account to phone.  
+  *Outstanding*: Still using my Google account for application backup and sync.
+  Need to evaluate the differences remaining.
 
 ## Migrations Completed
 

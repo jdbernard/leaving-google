@@ -34,6 +34,17 @@
   *Outstanding*: Still using my Google account for application backup and sync.
   Need to evaluate the differences remaining.
 
+* Music
+
+  *Replacement*: [Subsonic](http://www.subsonic.org)  
+  *Progess*: Installed Subsonic on `jdblabs01.jdb-labs.com`. It is available at
+  [music.jdbernard.com](https://music.jdbernard.com)  
+  *Outstanding*: Need to upload music. I might need to pay for more space on
+  Rackspace to hold the music. My music library currently sits at 13GB.
+  `jdblabs01.jdb-labs.com` has 17GB of free space, but I am not sure I want to
+  use that as a storage space. The minimum file block of 100GB at Rackspace is
+  $12/mo.
+
 ## Migrations Completed
 
 * Maps
